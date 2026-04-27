@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+
+# Generator (not needed by supervisor)
+generate_notebook.py
+
+# OS
+.DS_Store
+Thumbs.db
