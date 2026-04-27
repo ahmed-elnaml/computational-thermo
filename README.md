@@ -1,6 +1,6 @@
 # Computational Thermodynamics — Binary Eutectic System
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/eutectic_colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahmed-elnaml/computational-thermo/blob/main/eutectic_colab.ipynb)
 
 > **For supervisors / reviewers:** Click the badge above → the notebook opens in Google Colab in your browser. No installation required. Press **Runtime → Run all**.
 
